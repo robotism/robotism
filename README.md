@@ -2,18 +2,6 @@
 ## About Me:    
 
 Full Stack Developer
- 
----
-
-<div align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=robotism&theme=onedark">
-</div>
-
----
-
-
-## Skills
-
 
 | Java | Kotlin | Golang | C/C++ | JS | C# | Rust |
 |----------|----------|----------|----------|----------|----------|---------|
@@ -39,6 +27,12 @@ Full Stack Developer
 | Windows  | Darwin | Linux | Debian | Ubuntu | CentOS | Manjaro |
 |----------|----------|----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="55" height="55"/> |<img src="https://www.freeiconspng.com/uploads/apple-icon-22.png" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="55" height="55"/> | 
+
+---
+
+<div align="center">
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=robotism&theme=onedark">
+</div>
 
 ---
 
