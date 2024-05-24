@@ -34,8 +34,8 @@ Full Stack Developer
 </div>
 
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=robotism&show_icons=true&theme=vision-friendly-dark">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=robotism&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=robotism&show_icons=true&theme=vision-friendly-dark">
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=robotism&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </div>
  
 ---
