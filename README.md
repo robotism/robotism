@@ -3,9 +3,9 @@
 
 Full Stack Developer
 
-| Java | Kotlin | Golang | C/C++ | JS | C# | Rust |
+| Java | Kotlin | Golang | JS | C# | C/C++ | Rust |
 |------|--------|--------|-------|----|----|------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="55" height="55" /> | <img src="https://static.javatpoint.com/tutorial/rust/images/rust-tutorial.jpg" width="55" height="55" /> |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="55" height="55" /> |<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55" height="55" /> |  <img src="https://static.javatpoint.com/tutorial/rust/images/rust-tutorial.jpg" width="55" height="55" /> |
   
 | Spring | Go-Zero | VueJS | NuxtJS | Quasar | Uniapp | Android | 
 |--------|---------|-------|--------|--------|--------|---------|
