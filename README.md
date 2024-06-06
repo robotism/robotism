@@ -9,7 +9,7 @@ Full Stack Developer
   
 | Spring | Go-Zero | VueJS | NuxtJS | Quasar | Uniapp | Android | 
 |--------|---------|-------|--------|--------|--------|---------|
-| <img src="icon/spring.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon/go-zero.png" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon/vuejs.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon//nuxtjs.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon/quasar.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="https://qiniu-web-assets.dcloud.net.cn/unidoc/zh/uni.png" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon/android.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> |
+| <img src="icon/spring.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon/go-zero.png" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon/vuejs.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon//nuxtjs.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon/quasar.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon/uni.png" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon/android.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> |
 
 | Nginx  | Traefik | Higress | RabbitMQ | RocketMQ | Kafka  | EMQX  |
 |--------|---------|---------|----------|----------|--------|-------|
