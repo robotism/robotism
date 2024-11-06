@@ -46,7 +46,7 @@
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=robotism&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </div>
 <div align="center">
-  powered by <a href="https://github.com/anuraghazra/github-readme-stats">github.com/anuraghazra/github-readme-stats</a>
+  powered by <a href="https://github.com/anuraghazra/github-readme-stats">github.com/anuraghazra/github-readme-stats</a>, without my organizations
 </div>
  
 ---
@@ -58,7 +58,7 @@
   </a>
 </div>
 <div align="center">
-  powered by <a href="https://github.com/jstrieb/github-stats">github.com/jstrieb/github-stats</a>
+  powered by <a href="https://github.com/jstrieb/github-stats">github.com/jstrieb/github-stats</a>, with my organizations
 </div>
 
 ---
