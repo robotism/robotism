@@ -64,7 +64,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=robotism&theme=onedark">
+  <img src="https://github-profile-trophy.vercel.app/?username=robotism&theme=onedark&row=2&column=4">
 </div>
 <div align="center">
   powered by <a href="https://github.com/ryo-ma/github-profile-trophy">github.com/ryo-ma/github-profile-trophy</a>
