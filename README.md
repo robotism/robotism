@@ -1,7 +1,11 @@
 
-### About Me:    
 
-Full Stack Developer
+
+<div align="center">
+
+
+**About Me:**  `Full Stack Developer`
+
 
 | Java | Kotlin | Golang | JS | C# | C/C++ | Rust |
 |------|--------|--------|-------|----|----|------|
@@ -27,21 +31,43 @@ Full Stack Developer
 |----------|----------|----------|----------|----------|----------|---------|
 | <img src="icon/windows.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> |<img src="icon/apple.png" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon/linux.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon/debian.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon/ubuntu.png" width="55" height="55" style="min-width:55px;min-height:55px" /> |  <img src="icon/centos.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon/manjaro.jpg" width="55" height="55" style="min-width:55px;min-height:55px" /> | 
 
+</div>
 ---
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=robotism&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</div>
+<div align="center">
+  powered by <a href="https://github.com/anuraghazra/github-readme-stats">github.com/anuraghazra/github-readme-stats</a>
 </div>
 
 <div align="center">
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=robotism&show_icons=true&theme=vision-friendly-dark">
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=robotism&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </div>
+<div align="center">
+  powered by <a href="https://github.com/anuraghazra/github-readme-stats">github.com/anuraghazra/github-readme-stats</a>
+</div>
  
 ---
 
 <div align="center">
+  <a href="https://github.com/robotism/github-stats">
+    <img src="https://github.com/robotism/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+    <img src="https://github.com/robotism/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  </a>
+</div>
+<div align="center">
+  powered by <a href="https://github.com/jstrieb/github-stats">github.com/jstrieb/github-stats</a>
+</div>
+
+---
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=robotism&theme=onedark">
+</div>
+<div align="center">
+  powered by <a href="https://github.com/ryo-ma/github-profile-trophy">github.com/ryo-ma/github-profile-trophy</a>
 </div>
 
 ---
