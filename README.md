@@ -32,6 +32,7 @@
 | <img src="icon/windows.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> |<img src="icon/apple.png" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon/linux.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon/debian.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon/ubuntu.png" width="55" height="55" style="min-width:55px;min-height:55px" /> |  <img src="icon/centos.svg" width="55" height="55" style="min-width:55px;min-height:55px" /> | <img src="icon/manjaro.jpg" width="55" height="55" style="min-width:55px;min-height:55px" /> | 
 
 </div>
+
 ---
 
 <div align="center">
@@ -40,6 +41,8 @@
 <div align="center">
   powered by <a href="https://github.com/anuraghazra/github-readme-stats">github.com/anuraghazra/github-readme-stats</a>
 </div>
+
+---
 
 <div align="center">
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=robotism&show_icons=true&size_weight=0.15&count_weight=0.5&theme=vision-friendly-dark$ts=241107">
