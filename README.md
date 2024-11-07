@@ -44,16 +44,14 @@
 
 ---
 
+<!--
 <div align="center">
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=robotism&show_icons=true&size_weight=0.15&count_weight=0.5&theme=vision-friendly-dark$ts=241107">
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=robotism&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark$ts=241107">
 </div>
 
-<div align="center">
-  powered by <a href="https://github.com/anuraghazra/github-readme-stats">github.com/anuraghazra/github-readme-stats</a>, without my organizations
-</div>
- 
 ---
+-->
 
 <div align="center">
   <a href="https://github.com/robotism/github-stats">
@@ -61,17 +59,11 @@
     <img src="https://github.com/robotism/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
   </a>
 </div>
-<div align="center">
-  powered by <a href="https://github.com/jstrieb/github-stats">github.com/jstrieb/github-stats</a>, with my organizations
-</div>
 
 ---
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=robotism&theme=onedark&row=2&column=4">
-</div>
-<div align="center">
-  powered by <a href="https://github.com/ryo-ma/github-profile-trophy">github.com/ryo-ma/github-profile-trophy</a>
 </div>
 
 ---
