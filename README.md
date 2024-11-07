@@ -38,9 +38,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=robotism&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </div>
-<div align="center">
-  powered by <a href="https://github.com/anuraghazra/github-readme-stats">github.com/anuraghazra/github-readme-stats</a>
-</div>
 
 ---
 
