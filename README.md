@@ -11,7 +11,7 @@
 | :---: | :----: | :----: | :---: | :---: | :---: | :---: |
 |  <img src="icon/java.png" style="width:32px; height:32px; object-fit:contain;" /> | <img src="icon/kotlin.png" style="width:32px; height:32px; object-fit:contain;" /> | <img src="icon/go.png" style="width:32px; height:32px; object-fit:contain;" /> | <img src="icon/javascript.png" style="width:32px; height:32px; object-fit:contain;" /> | <img src="icon/csharp.png" style="width:32px; height:32px; object-fit:contain;" /> |<img src="icon/c.png" style="width:32px; height:32px; object-fit:contain;" /> |  <img src="icon/rust.jpg" style="width:32px; height:32px; object-fit:contain;" /> |
   
-| `Spring` | `Go-Zero` | `VueJS` | `NuxtJS` | `Quasar` | `Uniapp` | `Android` | 
+| `Spring` | `Go Zero` | `VueJS` | `NuxtJS` | `Quasar` | `Uniapp` | `Android` | 
 | :----: | :-----: | :---: | :----: | :----: | :----: | :-----: |
 | <img src="icon/spring.png" style="width:32px; height:32px; object-fit:contain;" /> | <img src="icon/go-zero.png" style="width:32px; height:32px; object-fit:contain;" /> | <img src="icon/vuejs.png" style="width:32px; height:32px; object-fit:contain;" /> | <img src="icon//nuxtjs.png" style="width:32px; height:32px; object-fit:contain;" /> | <img src="icon/quasar.png" style="width:32px; height:32px; object-fit:contain;" /> | <img src="icon/uni.png" style="width:32px; height:32px; object-fit:contain;" /> | <img src="icon/android.png" style="width:32px; height:32px; object-fit:contain;" /> |
 
